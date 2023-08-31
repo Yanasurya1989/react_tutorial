@@ -1,12 +1,12 @@
 import './App.css';
-import List from './pages/list';
+import Conditional from './pages/conditional';
 
 function App() {
   return (
     <div className='App'>
       <main className='Main'>
         <div className='container'>
-          <List/>
+          <Conditional/>
         </div>
       </main>
     </div>
