@@ -1,12 +1,12 @@
 import './App.css';
-import Conditional from './pages/conditional';
+import Stylei from './pages/styling';
 
 function App() {
   return (
     <div className='App'>
       <main className='Main'>
         <div className='container'>
-          <Conditional/>
+          <Stylei/>
         </div>
       </main>
     </div>
