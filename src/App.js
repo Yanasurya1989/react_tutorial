@@ -1,14 +1,12 @@
 import './App.css';
-import Dashboard from './pages/dashboard';
-import Home from './pages/home';
-
+import List from './pages/list';
 
 function App() {
   return (
     <div className='App'>
       <main className='Main'>
         <div className='container'>
-          <Dashboard/>
+          <List/>
         </div>
       </main>
     </div>
