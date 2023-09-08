@@ -1,12 +1,12 @@
 import './App.css';
-import Stylei from './pages/styling';
+import EventClass from './pages/eventClass';
 
 function App() {
   return (
     <div className='App'>
       <main className='Main'>
         <div className='container'>
-          <Stylei/>
+          <EventClass/>
         </div>
       </main>
     </div>
